@@ -13,7 +13,7 @@ This repository contains the files and resources for the Homepage Assignment. Th
 To get started with this project, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/mentalvishal/homepage-assignment.git
+git clone https://github.com/mentalvishal/homepage.git
 ```
 
 Once cloned, you can open the `index.html` file in your web browser to view the homepage.
